@@ -1,4 +1,4 @@
-# OpenDAX - Complete Crypto Exchange Platform
+# realDAX - Complete Crypto Exchange Platform
 
 A comprehensive, enterprise-grade cryptocurrency exchange system following **OpenDAX architecture** with high-frequency trading, institutional-grade double-entry accounting, complete fiat integration, and professional monitoring.
 
@@ -435,3 +435,4 @@ MIT License
 ## Support
 
 For issues and questions, please open a GitHub issue.
+
