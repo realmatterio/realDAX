@@ -1,6 +1,6 @@
 # realDAX - Complete Crypto Exchange Platform
 
-A comprehensive, enterprise-grade cryptocurrency exchange system following **OpenDAX architecture** with high-frequency trading, institutional-grade double-entry accounting, complete fiat integration, and professional monitoring.
+A comprehensive, enterprise-grade cryptocurrency exchange system following **realDAX-OpenDAX architecture** with high-frequency trading, institutional-grade double-entry accounting, complete fiat integration, and professional monitoring.
 
 ## 🏗️ Architecture Overview (OpenDAX-Aligned)
 
@@ -30,7 +30,7 @@ A comprehensive, enterprise-grade cryptocurrency exchange system following **Ope
 └─────────────────────┘  └──────────────────────────────────┘
 ```
 
-## 📦 Core Components (Full OpenDAX Stack)
+## 📦 Core Components (Full realDAX-OpenDAX Stack)
 
 | Component      | Port | Description                      | Technology    | Status |
 |----------------|------|----------------------------------|---------------|--------|
@@ -307,7 +307,7 @@ PUT  /api/fees/:id               # Update fees
 
 ---
 
-## 🎯 OpenDAX Compliance
+## 🎯 realDAX-OpenDAX Compliance
 
 | Feature                   | Status |
 |---------------------------|--------|
@@ -329,7 +329,7 @@ MIT License
 
 ---
 
-**Built with ❤️ following OpenDAX architecture**
+**Built with ❤️ following realDAX-OpenDAX architecture**
 docker-compose ps
 
 # View logs
@@ -435,4 +435,3 @@ MIT License
 ## Support
 
 For issues and questions, please open a GitHub issue.
-

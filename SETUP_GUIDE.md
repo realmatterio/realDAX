@@ -1,6 +1,6 @@
-# OpenDAX Complete Setup Guide
+# realDAX
 
-Complete setup instructions for the OpenDAX cryptocurrency exchange platform following official OpenDAX architecture standards.
+Complete setup instructions for the realDAX-OpenDAX cryptocurrency exchange platform following official realDAX-OpenDAX architecture standards.
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ Before starting, ensure you have the following installed:
 
 ## 🚀 Quick Start with Docker (Recommended)
 
-The easiest way to run the complete OpenDAX platform:
+The easiest way to run the complete realDAX-OpenDAX platform:
 
 ```bash
 # Clone the repository
@@ -814,6 +814,6 @@ MIT License - See LICENSE file for details
 
 ---
 
-**Note**: This is a comprehensive OpenDAX-compliant platform with ~85% of official components. For production use, additional security hardening, testing, compliance features, and the Tower Admin UI frontend are recommended.
+**Note**: This is a comprehensive realDAX-OpenDAX-compliant platform with ~85% of official components. For production use, additional security hardening, testing, compliance features, and the Tower Admin UI frontend are recommended.
 
 **New Components Added**: Tower Admin Backend, AppLogic Payment Gateway, InfluxDB Time-Series, Prometheus + Grafana Monitoring, Double-Entry Ledger System.
